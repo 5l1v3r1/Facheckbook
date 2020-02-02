@@ -2,6 +2,10 @@
 <pre>
 Usage : python3 fb.py [list.txt] [proxy:port]
 
+list.txt file contains:
+        $email|$password
+        Example : jhonykecil@gmail.com|s3cr3tp4ssw0rd
+
 Use Tor Proxies : 
         first, start tor service by using command "tor"
         then execute:
